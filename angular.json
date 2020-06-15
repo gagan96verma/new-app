@@ -24,7 +24,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/cake.less",
+              "src/loading.css"
             ],
             "scripts": []
           },
